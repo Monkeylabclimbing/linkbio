@@ -1,0 +1,13 @@
+COLOQUE AQUI OS ARQUIVOS ORIGINAIS DA MONKEY LAB (nomes exatos, em minúsculas):
+
+logo.png        Logotipo (PNG, de preferência fundo transparente, ~400x400 px)
+                Aparece no topo e no rodapé, dentro de um círculo branco.
+chimpanze.webp  Chimpanzé oficial (WebP, 800 px de largura). Aparece na seção "O LAB ESTÁ ABERTO."
+favicon.png     Ícone da aba do navegador (PNG quadrado, 512x512 px). Pode ser o próprio logo.
+og-image.jpg    Imagem de compartilhamento do link (1200x630 px, JPG).
+
+produtos/       Fotos dos hangboards (WebP ou JPG, 1200x900 px, proporção 4:3, até ~200 KB cada).
+                Os nomes precisam ser idênticos aos usados em js/config.js.
+
+Se um arquivo estiver faltando, o site mostra um aviso tracejado no lugar, com o caminho esperado.
+Se quiser usar outro nome ou formato (ex.: logo.svg), altere também no index.html.
