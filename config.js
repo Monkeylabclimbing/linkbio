@@ -40,7 +40,7 @@ window.MONKEY_LAB = {
        dimensoes   Texto livre (ex.: "50 x 15 x 4 cm") ou null para ocultar
        material    Texto
        acabamento  Texto
-       fotos       Lista de fotos: { src: "assets/produtos/arquivo.webp", alt: "descrição" }
+       fotos       Lista de fotos: { src: "arquivo.webp", alt: "descrição" }
                    1 foto = imagem fixa | 2 ou mais = galeria deslizante
                    [] (lista vazia) = mostra aviso de foto pendente
        exemplo     true = card de exemplo (marcado e com botão desativado)
@@ -55,13 +55,13 @@ window.MONKEY_LAB = {
       material: "MDF",
       acabamento: "Branco com detalhes em madeira",
       fotos: [
-        { src: "assets/produtos/silverback-1.webp", alt: "Hangboard Silverback visto de frente" },
-        { src: "assets/produtos/silverback-2.webp", alt: "Hangboard Silverback em perspectiva" },
-        { src: "assets/produtos/silverback-3.webp", alt: "Hangboard Silverback na vertical" },
-        { src: "assets/produtos/silverback-4.webp", alt: "Hangboard Silverback na vertical, outro ângulo" },
-        { src: "assets/produtos/silverback-5.webp", alt: "Detalhe da lateral do Silverback em MDF" },
-        { src: "assets/produtos/silverback-6.webp", alt: "Detalhe da borda e das pegas do Silverback" },
-        { src: "assets/produtos/silverback-7.webp", alt: "Silverback em três vistas" }
+        { src: "silverback-1.webp", alt: "Hangboard Silverback visto de frente" },
+        { src: "silverback-2.webp", alt: "Hangboard Silverback em perspectiva" },
+        { src: "silverback-3.webp", alt: "Hangboard Silverback na vertical" },
+        { src: "silverback-4.webp", alt: "Hangboard Silverback na vertical, outro ângulo" },
+        { src: "silverback-5.webp", alt: "Detalhe da lateral do Silverback em MDF" },
+        { src: "silverback-6.webp", alt: "Detalhe da borda e das pegas do Silverback" },
+        { src: "silverback-7.webp", alt: "Silverback em três vistas" }
       ],
       exemplo: false
     },
@@ -73,11 +73,11 @@ window.MONKEY_LAB = {
       material: "MDF",
       acabamento: "Branco com detalhes em madeira",
       fotos: [
-        { src: "assets/produtos/bugio-1.webp", alt: "Hangboard Bugio visto de frente" },
-        { src: "assets/produtos/bugio-2.webp", alt: "Hangboard Bugio de frente, mostrando o agarrão no topo" },
-        { src: "assets/produtos/bugio-3.webp", alt: "Hangboard Bugio na vertical" },
-        { src: "assets/produtos/bugio-4.webp", alt: "Detalhe da lateral do Bugio" },
-        { src: "assets/produtos/bugio-5.webp", alt: "Bugio em três vistas" }
+        { src: "bugio-1.webp", alt: "Hangboard Bugio visto de frente" },
+        { src: "bugio-2.webp", alt: "Hangboard Bugio de frente, mostrando o agarrão no topo" },
+        { src: "bugio-3.webp", alt: "Hangboard Bugio na vertical" },
+        { src: "bugio-4.webp", alt: "Detalhe da lateral do Bugio" },
+        { src: "bugio-5.webp", alt: "Bugio em três vistas" }
       ],
       exemplo: false
     }
