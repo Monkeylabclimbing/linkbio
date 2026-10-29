@@ -49,7 +49,7 @@ window.MONKEY_LAB = {
   produtos: [
     {
       nome: "Silverback",
-      preco: 180.00,
+      preco: 179.90,
       descricao: "Opções de pinça, regletes variados e abaulado no topo com cerca de 30 graus.",
       dimensoes: "60 x 20 x 4 cm",
       material: "MDF",
@@ -67,7 +67,7 @@ window.MONKEY_LAB = {
     },
     {
       nome: "Bugio",
-      preco: 160.00,
+      preco: 159.90,
       descricao: "Diversos regletes e um agarrão no topo.",
       dimensoes: "60 x 15 x 4 cm",
       material: "MDF",
